@@ -7,7 +7,7 @@ This is the main branch for the asus x5dc laptop project.
 2. Learn more about getting the right operating system for the right hardware (Lightweight Linux distros)
 
 
-## Specs before
+## Specifications before
 1. Intel Celeron D220 Processor 1.5GHz
 2. 3GB RAM.
 3. 250GB HDD.
@@ -15,7 +15,7 @@ This is the main branch for the asus x5dc laptop project.
 5. SiS Mirage 3 GPU 128MB 
 6. DVD-SM.
 
-## Current Specs
+## Current Specifications
 1. Intel Celeron D220 Processor 1.5GHz
 2. 1GB RAM.
 3. 250GB HDD.
