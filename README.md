@@ -25,5 +25,5 @@ This is the Code branch for the asus x5dc laptop project.
 
 ## File Types
 1. .md
-1. .gitattributes
+2. .LICENSE 
 
