@@ -1,6 +1,6 @@
-# Asus-X5DC-Laptop-Project-Main-Branch
+# Asus-X5DC-Laptop-Project-Code-Branch
 ## Introduction
-This is the main branch for the asus x5dc laptop project.
+This is the Code branch for the asus x5dc laptop project.
 
 ## Aims 
 1. Learn more about other linux distros
@@ -23,6 +23,7 @@ This is the main branch for the asus x5dc laptop project.
 5. SiS Mirage 3 GPU 128 MB
 6. DVD-SM.
 
-## Planned Upgrades
-1. Putting the other ram stick back in as originally it was taken out for another project.
+## File Types
+1. .md
+1. .gitattributes
 
